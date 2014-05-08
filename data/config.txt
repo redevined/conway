@@ -1,0 +1,8 @@
+width=60
+height=60
+red=120
+green=120
+blue=250
+frames/second=15
+survival_value=2 3
+birth_value=3
